@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2012, Ricardo Cerqueira
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <item name="drawable/ic_launcher">@drawable/ic_launcher_music</item>
+    <item name="color/holo_blue_dark">@color/sampletheme_maincolor_dark</item>
+    <item name="drawable/list_section_divider_holo_custom">@drawable/com_android_contacts_list_section_divider_holo_custom</item>
+    <item name="drawable/tab_selected_holo">@drawable/com_cyanogenmod_trebuchet_tab_selected_holo</item>
+    <item name="drawable/tab_selected_pressed_focused_holo">@drawable/com_cyanogenmod_trebuchet_tab_selected_pressed_focused_holo</item>
+    <item name="drawable/tab_selected_pressed_holo">@drawable/com_cyanogenmod_trebuchet_tab_selected_pressed_holo</item>
+    <item name="drawable/tab_unselected_focused_holo">@drawable/com_cyanogenmod_trebuchet_tab_unselected_focused_holo</item>
+    <item name="drawable/tab_unselected_holo">@drawable/com_cyanogenmod_trebuchet_tab_unselected_holo</item>
+    <item name="drawable/tab_unselected_pressed_holo">@drawable/com_cyanogenmod_trebuchet_tab_unselected_pressed_holo</item>
+    <item name="drawable/indicator_playing_peak_meter_1">@drawable/com_andrew_apollo_indicator_playing_peak_meter_1</item>
+    <item name="drawable/indicator_playing_peak_meter_2">@drawable/com_andrew_apollo_indicator_playing_peak_meter_2</item>
+    <item name="drawable/indicator_playing_peak_meter_3">@drawable/com_andrew_apollo_indicator_playing_peak_meter_3</item>
+    <item name="drawable/indicator_playing_peak_meter_4">@drawable/com_andrew_apollo_indicator_playing_peak_meter_4</item>
+    <item name="drawable/indicator_playing_peak_meter_5">@drawable/com_andrew_apollo_indicator_playing_peak_meter_5</item>
+</resource-redirections>

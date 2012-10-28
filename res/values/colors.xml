@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sampletheme_maincolor">#ff33b5e5</color>
+    <color name="sampletheme_maincolor_dark">#ff0099cc</color>
+    <color name="sampletheme_maincolor_bright">#ff00ddff</color>
+    <color name="sampletheme_maincolor_reverted">#ff111133</color>
+    <color name="sampletheme_mms_messagecount">#7fa0a0a0</color>
+    <drawable name="sampletheme_background">#ff2e2e2e</drawable>
+    <drawable name="sampletheme_background_light">#ff444444</drawable>
+</resources>
+
