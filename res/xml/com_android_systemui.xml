@@ -23,4 +23,6 @@
     <item name="drawable/ic_sysbar_home_land">@drawable/com_android_systemui_ic_sysbar_home_land</item>
     <item name="drawable/ic_sysbar_recent">@drawable/com_android_systemui_ic_sysbar_recent</item>
     <item name="drawable/ic_sysbar_recent_land">@drawable/com_android_systemui_ic_sysbar_recent_land</item>
+    <item name="drawable/ic_sysbar_menu">@drawable/com_android_systemui_ic_sysbar_menu</item>
+    <item name="drawable/ic_sysbar_menu_land">@drawable/com_android_systemui_ic_sysbar_menu_land</item>
 </resource-redirections>
