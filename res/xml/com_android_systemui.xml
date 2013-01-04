@@ -16,8 +16,6 @@
  -->
 
 <resource-redirections>
-    <item name="drawable/ic_sysbar_highlight">@drawable/com_android_systemui_ic_sysbar_highlight</item>
-    <item name="drawable/ic_sysbar_highlight_land">@drawable/com_android_systemui_ic_sysbar_highlight_land</item>
     <item name="drawable/ic_sysbar_back">@drawable/com_android_systemui_ic_sysbar_back</item>
     <item name="drawable/ic_sysbar_back_land">@drawable/com_android_systemui_ic_sysbar_back_land</item>
     <item name="drawable/ic_sysbar_back_ime">@drawable/com_android_systemui_ic_sysbar_back_ime</item>
@@ -25,8 +23,4 @@
     <item name="drawable/ic_sysbar_home_land">@drawable/com_android_systemui_ic_sysbar_home_land</item>
     <item name="drawable/ic_sysbar_recent">@drawable/com_android_systemui_ic_sysbar_recent</item>
     <item name="drawable/ic_sysbar_recent_land">@drawable/com_android_systemui_ic_sysbar_recent_land</item>
-    <item name="drawable/ic_sysbar_search">@drawable/com_android_systemui_ic_sysbar_search</item>
-    <item name="drawable/ic_sysbar_search_land">@drawable/com_android_systemui_ic_sysbar_search</item>
-    <item name="drawable/ic_sysbar_menu_big">@drawable/com_android_systemui_ic_sysbar_menu_big</item>
-    <item name="drawable/ic_sysbar_menu_big_land">@drawable/com_android_systemui_ic_sysbar_menu_big</item>
 </resource-redirections>
